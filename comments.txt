@@ -1,0 +1,8 @@
+Question 1
+Your function logic appears to be off. The loop is not working correctly.
+
+Question 2
+This code is incomplete.
+
+Question 3
+Where is your answer to question 3?
